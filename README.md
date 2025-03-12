@@ -8,8 +8,7 @@
 I would like to welcome you to the College of Science and Technology at The University of Cambodia. The College of Science and Technology (CoST) was established at the same time as the The University of Cambodia in 2013. The College have been developed and transforms with the rise of Science and technology in the 21st century. We drive and inspire our students to value creativity and innovation in the information technology world. The college offers undergraduate and graduate programs such as Computer Science, Information Technology and Electronics and Telecommunication. Our programs prepare students for careers in these disciplines as scientific and ICT professional. In order to meet increasing demand for graduates in computer science and information technology,
 
 </p>
-<img src="![photo_2025-03-12_08-53-59](https://github.com/user-attachments/assets/0a2f67e3-a2f2-4b9b-b33e-0d4091420d4d)
-" alt="UC logo" width="UC LOGO" height="150" width="150">
+<img src="photo_2025-03-12_08-53-59.jpg" alt="UC logo" width="UC LOGO" height="150" width="150">
 <p>
 
 </p>
